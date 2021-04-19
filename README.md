@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👨‍🎓 I am currently studying Computer Engineering at Kocaeli University
+- 👨‍🎓 I am currently studying Computer Engineering at **Kocaeli University**
 - 📱  I'm working on **Mobile Programming**
 
 - 🌱 I’m currently learning **React Native**
