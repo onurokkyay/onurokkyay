@@ -1,4 +1,4 @@
-### I am Onur
+### Hi there, Im Onur Okyay👋
 
 <!--
 **onurokkyay/onurokkyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
