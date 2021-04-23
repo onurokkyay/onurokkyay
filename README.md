@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/onurokkyay" target="_blank">![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/onurokkyay)</a>
 <a href="https://www.linkedin.com/in/onur-okyay/" target="_blank">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onur-okyay)</a>
 <a href="https://instagram.com/onurokkyay" target="_blank">![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/onurokkyay)</a>
+#### :link: Somos Games Google Play Store
+
+<a href="https://play.google.com/store/apps/developer?id=Somos+Games&hl=tr&gl=US" target="_blank"> <img src="https://tehnoblog.org/wp-content/uploads/2014/08/Google-Play-Store-Logo-XL.png" alt="Somos Games Google Play Store" width="200" height="40"/> </a> </p>
