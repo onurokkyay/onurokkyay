@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👨‍🎓 I am currently studying Computer Engineering at **Kocaeli University**
-- 📱  I'm working on **Mobile Programming**
 
-- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **C, Java and Javascript**
 
