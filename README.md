@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👨‍🎓 I am currently studying Computer Engineering at **Kocaeli University**
 
 
-- 💬 Ask me about **C, Java and JavaScript**
+- 💬 Ask me about **C and Java**
 
 - 📫 How to reach me **onurokyay1@gmail.com**
 
