@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👨‍🎓 I am currently studying Computer Engineering at **Kocaeli University**
 
+- 👨‍🎓 I am currently working at **Softtech**
 
-- 💬 Ask me about **C and Java**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **onurokyay1@gmail.com**
 
